@@ -2,4 +2,4 @@ module github.com/imhshekhar47/go-angular
 
 go 1.13
 
-require github.com/gin-gonic/gin v1.6.2
+require github.com/gin-gonic/gin v1.9.0
